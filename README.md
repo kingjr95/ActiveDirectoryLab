@@ -23,7 +23,7 @@ Download Oracle VirtualBox: <br/>
 <img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Image1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Create a VM (Domain Controller):  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
