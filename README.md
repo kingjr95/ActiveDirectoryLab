@@ -3,16 +3,18 @@
  <!--### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)-->
 
 <h2>Description</h2>
-In this tutorial we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box.
+In this tutorial we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box, Win10, and Server19.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools Used: </h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VM Virtualbox</b>
+- <b>Win10 ISO</b>
+- <b>PowerShell</b>
+- <b>Server19 ISO</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used: </h2>
 
 - <b>Windows 10</b> (21H2)
 
