@@ -30,7 +30,7 @@ Create a VM (Domain Controller):  <br/>
 <br />
 <br />
 Enter Network Innformation: <br/>
-<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Enter Network Information.PNG" height="80%" width="80%" alt="Enter Network Information"/>
+<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/EnterNetworkInformation.PNG" height="80%" width="80%" alt="Enter Network Information"/>
 <br />
 <br />
 Confirm your selection:  <br/>
