@@ -29,7 +29,7 @@ Create a VM (Domain Controller):  <br/>
 <img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Image2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter information : <br/>
+Enter Network Innformation: <br/>
 <img src="" width="80%" alt=""/>
 <br />
 <br />
