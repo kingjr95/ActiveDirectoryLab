@@ -45,8 +45,8 @@ Allow Remote Access:  <br/>
 <img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Allow%20Remote%20Access.png" height="80%" width="80%" alt="Allow Remote Access"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable NAT:  <br/>
+<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Enable%20NAT.png" height="80%" width="80%" alt="Enable NAT"/>
 </p>
 
 <!--
