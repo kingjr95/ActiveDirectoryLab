@@ -22,15 +22,15 @@ In this tutorial we're going to walk through how to create an Active Directory h
 
 <p align="center">
 Download Oracle VirtualBox: <br/>
-<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Image1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Image1.PNG" height="80%" width="80%" alt="Oracle VirtualBox"/>
 <br />
 <br />
 Create a VM (Domain Controller):  <br/>
-<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Image2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Image2.PNG" height="80%" width="80%" alt="Create a VM"/>
 <br />
 <br />
 Enter Network Innformation: <br/>
-<img src="" width="80%" alt=""/>
+<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Enter Network Information.PNG" height="80%" width="80%" alt="Enter Network Information"/>
 <br />
 <br />
 Confirm your selection:  <br/>
