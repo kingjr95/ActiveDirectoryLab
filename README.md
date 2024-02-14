@@ -37,7 +37,7 @@ Install AD DS:  <br/>
 <img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Install%20Domain%20Services.png" height="80%" width="80%" alt="Install AD DS"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Create Groups:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
