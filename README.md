@@ -33,8 +33,8 @@ Enter Network Innformation: <br/>
 <img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Enter%20Network%20Information.png" height="80%" width="80%" alt="Enter Network Information"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install AD DS:  <br/>
+<img src="" height="80%" width="80%" alt="Install AD DS"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
