@@ -49,7 +49,8 @@ Enable NAT:  <br/>
 <img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Enable%20NAT.png" height="80%" width="80%" alt="Enable NAT"/>
 <br />
 <br />
- Enable DHCP Server
+Enable DHCP Server
+Configure Lease Duration
 </p>
 
 <!--
