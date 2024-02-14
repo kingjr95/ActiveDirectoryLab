@@ -38,7 +38,7 @@ Install AD DS:  <br/>
 <br />
 <br />
 Create Groups:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Create%20Group.png" height="80%" width="80%" alt="Create Groups"/>
 <br />
 <br />
 Sanitization complete:  <br/>
