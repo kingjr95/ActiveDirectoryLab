@@ -42,7 +42,7 @@ Create Admin Groups:  <br/>
 <br />
 <br />
 Allow Remote Access:  <br/>
-<img src="" height="80%" width="80%" alt="Allow Remote Access"/>
+<img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Allow%20Remote%20Access.png" height="80%" width="80%" alt="Allow Remote Access"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
