@@ -41,8 +41,8 @@ Create Admin Groups:  <br/>
 <img src="https://github.com/kingjr95/ActiveDirectoryLab/blob/main/Images/Create%20Group.png" height="80%" width="80%" alt="Create Admin Groups"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Allow Remote Access:  <br/>
+<img src="" height="80%" width="80%" alt="Allow Remote Access"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
