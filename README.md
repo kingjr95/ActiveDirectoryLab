@@ -50,7 +50,12 @@ Enable NAT:  <br/>
 <br />
 <br />
 Enable DHCP Server <br/>
-Configure Lease Duration
+Configure Lease Duration <br/>
+Configure Default Gateway <br/>
+Add User's with Powershell Script <br/>
+Create a User's group <br/>
+Create a Win 10 VM <br/>
+Check if Win 10 VM communicates with Server <br/>
 </p>
 
 <!--
